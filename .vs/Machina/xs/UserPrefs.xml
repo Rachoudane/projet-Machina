@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C25E220E-F269-4873-9D11-86662619EC39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Machina/Machina/service/CognitiveService.cs">
+    <Files>
+      <File FileName="Machina/Machina/service/CognitiveService.cs" Line="37" Column="53" />
+      <File FileName="Machina/Machina/ScannerPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="Machina/Machina/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Machina" expanded="True">
+            <Node name="Machina" expanded="True">
+              <Node name="service" expanded="True">
+                <Node name="CognitiveService.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="ScannerPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Machina.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Machina.iOS Xamarin.HotReload.WrongLinkerErrorInfoBar.Machina.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2EDCB1C7-2D02-4E7A-9DDA-404C04B11A0B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Jonathan/Desktop/Machina/Machina/Machina/service/CognitiveService.cs" relfile="Machina/Machina/service/CognitiveService.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Machina.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.nexus_5x_xxhdpi" />
+</Properties>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tf7joR4wZlSBTkqY4B3PgQSigxpsJ8fsvaEvlJO90LhZHVlkRyfGHJ0d67jIB31ZZGIj7b0H9T8M7KLxISH9Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marou\\Documents\\MobDev\\udemy-xamarin-c-\\Projets\\Machina\\Machina\\Machina\\Machina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marou\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.0.4\\com.airbnb.xamarin.forms.lottie.3.0.4.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.6.0\\xam.plugin.simpleaudioplayer.1.6.0.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\xamarin.essentials\\1.7.4\\xamarin.essentials.1.7.4.nupkg.sha512",
+    "C:\\Users\\Marou\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}

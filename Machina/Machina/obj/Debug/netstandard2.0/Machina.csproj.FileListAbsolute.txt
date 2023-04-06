@@ -1,0 +1,16 @@
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\bin\Debug\netstandard2.0\Machina.deps.json
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\bin\Debug\netstandard2.0\Machina.dll
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\bin\Debug\netstandard2.0\Machina.pdb
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.csproj.AssemblyReference.cache
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\ScannerPage.xaml.g.cs
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.AssemblyInfoInputs.cache
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.AssemblyInfo.cs
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.csproj.CoreCompileInputs.cache
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.dll
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\refint\Machina.dll
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\Machina.pdb
+C:\Users\Marou\Documents\MobDev\udemy-xamarin-c-\Projets\Machina\Machina\Machina\obj\Debug\netstandard2.0\ref\Machina.dll
